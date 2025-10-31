@@ -1,0 +1,411 @@
+disease,workout
+fungal infection,Avoid sugary foods
+fungal infection,Consume probiotics
+fungal infection,Increase intake of garlic
+fungal infection,Include yogurt in diet
+fungal infection,Limit processed foods
+fungal infection,Stay hydrated
+fungal infection,Consume green tea
+fungal infection,Eat foods rich in zinc
+fungal infection,Include turmeric in diet
+fungal infection,Eat fruits and vegetables
+allergy,Avoid allergenic foods
+allergy,Consume anti-inflammatory foods
+allergy,Include omega-3 fatty acids
+allergy,Stay hydrated
+allergy,Eat foods rich in vitamin C
+allergy,Include quercetin-rich foods
+allergy,Consume local honey
+allergy,Limit processed foods
+allergy,Include ginger in diet
+allergy,Avoid artificial additives
+gerd,Consume smaller meals
+gerd,"Avoid trigger foods (spicy, fatty)"
+gerd,Eat high-fiber foods
+gerd,Limit caffeine and alcohol
+gerd,Chew food thoroughly
+gerd,Avoid late-night eating
+gerd,Consume non-citrus fruits
+gerd,Include lean proteins
+gerd,Stay hydrated
+gerd,Avoid carbonated beverages
+chronic cholestasis,Consume a low-fat diet
+chronic cholestasis,Eat high-fiber foods
+chronic cholestasis,Include healthy fats
+chronic cholestasis,Limit alcohol consumption
+chronic cholestasis,Stay hydrated
+chronic cholestasis,Consume antioxidant-rich foods
+chronic cholestasis,Include omega-3 fatty acids
+chronic cholestasis,Include lean proteins
+chronic cholestasis,Limit processed foods
+chronic cholestasis,Avoid fried foods
+drug reaction,Discontinue offending medication
+drug reaction,Stay hydrated
+drug reaction,Include anti-inflammatory foods
+drug reaction,Consume antioxidants
+drug reaction,Avoid trigger foods
+drug reaction,Include omega-3 fatty acids
+drug reaction,Limit caffeine and alcohol
+drug reaction,Stay hydrated
+drug reaction,Eat a balanced diet
+drug reaction,Consult a healthcare professional
+peptic ulcer disease,"Consume smaller, more frequent meals"
+peptic ulcer disease,"Avoid trigger foods (spicy, acidic)"
+peptic ulcer disease,Include high-fiber foods
+peptic ulcer disease,Limit caffeine and alcohol
+peptic ulcer disease,Stay hydrated
+peptic ulcer disease,Consume probiotics
+peptic ulcer disease,Include lean proteins
+peptic ulcer disease,Include antioxidant-rich foods
+peptic ulcer disease,Limit processed foods
+peptic ulcer disease,Avoid smoking and alcohol
+aids,Follow a balanced and nutritious diet
+aids,Include lean proteins
+aids,Consume nutrient-rich foods
+aids,Stay hydrated
+aids,Include healthy fats
+aids,Avoid raw or undercooked foods
+aids,Limit sugary foods and beverages
+aids,Consume immune-boosting foods
+aids,Take prescribed supplements
+aids,Consult a healthcare professional
+diabetes,Monitor carbohydrate intake
+diabetes,Eat balanced meals
+diabetes,Include lean proteins
+diabetes,Consume high-fiber foods
+diabetes,Stay hydrated
+diabetes,Limit sugary foods and beverages
+diabetes,Include healthy fats
+diabetes,Monitor blood sugar levels
+diabetes,Consult a registered dietitian
+diabetes,Take prescribed medications as directed
+gastroenteritis,Stay hydrated
+gastroenteritis,Consume clear fluids
+gastroenteritis,"Follow the BRAT diet (bananas, rice, applesauce, toast)"
+gastroenteritis,Include bland foods
+gastroenteritis,Avoid fatty and greasy foods
+gastroenteritis,Limit caffeine and alcohol
+gastroenteritis,Avoid spicy foods
+gastroenteritis,Consult a healthcare professional
+gastroenteritis,Gradually reintroduce solid foods
+gastroenteritis,Avoid dairy products
+bronchial asthma,Include anti-inflammatory foods
+bronchial asthma,Consume omega-3 fatty acids
+bronchial asthma,Limit sodium intake
+bronchial asthma,Stay hydrated
+bronchial asthma,Include antioxidant-rich foods
+bronchial asthma,Avoid sulfite-containing foods
+bronchial asthma,Limit processed foods
+bronchial asthma,Consume magnesium-rich foods
+bronchial asthma,Consult a healthcare professional
+bronchial asthma,Avoid trigger foods
+hypertension,Follow the DASH diet (Dietary Approaches to Stop Hypertension)
+hypertension,Limit sodium intake
+hypertension,Include potassium-rich foods
+hypertension,Stay hydrated
+hypertension,Consume calcium-rich foods
+hypertension,Limit alcohol consumption
+hypertension,Include magnesium-rich foods
+hypertension,Consume omega-3 fatty acids
+hypertension,Limit processed foods
+hypertension,Consult a healthcare professional
+migraine,Identify and avoid trigger foods
+migraine,Stay hydrated
+migraine,Include magnesium-rich foods
+migraine,Consume omega-3 fatty acids
+migraine,Limit caffeine and alcohol
+migraine,Consume riboflavin-rich foods
+migraine,Limit processed foods
+migraine,Maintain regular meal times
+migraine,Consult a healthcare professional
+migraine,Manage stress
+cervical spondylosis,Include anti-inflammatory foods
+cervical spondylosis,Consume omega-3 fatty acids
+cervical spondylosis,Include vitamin D-rich foods
+cervical spondylosis,Stay hydrated
+cervical spondylosis,Consume antioxidant-rich foods
+cervical spondylosis,Limit processed foods
+cervical spondylosis,Include lean proteins
+cervical spondylosis,Practice good posture
+cervical spondylosis,Consult a healthcare professional
+cervical spondylosis,Engage in regular exercise
+paralysis (brain hemorrhage),Follow a balanced and nutritious diet
+paralysis (brain hemorrhage),Include lean proteins
+paralysis (brain hemorrhage),Consume nutrient-rich foods
+paralysis (brain hemorrhage),Stay hydrated
+paralysis (brain hemorrhage),Include healthy fats
+paralysis (brain hemorrhage),Limit sugary foods and beverages
+paralysis (brain hemorrhage),Include antioxidants
+paralysis (brain hemorrhage),Consume foods rich in vitamin K
+paralysis (brain hemorrhage),Consult a healthcare professional
+paralysis (brain hemorrhage),Manage stress
+jaundice,Stay hydrated
+jaundice,Consume nutrient-rich foods
+jaundice,Include protein-rich foods
+jaundice,Consume easily digestible foods
+jaundice,Limit fatty foods
+jaundice,Avoid alcohol and caffeine
+jaundice,Include vitamin C-rich foods
+jaundice,Consult a healthcare professional
+jaundice,Rest and conserve energy
+jaundice,Gradually resume normal diet
+malaria,Stay hydrated
+malaria,Consume nutrient-rich foods
+malaria,Include protein-rich foods
+malaria,Consume foods rich in antioxidants
+malaria,Limit fatty and greasy foods
+malaria,Avoid alcohol and caffeine
+malaria,Include vitamin C-rich foods
+malaria,Consult a healthcare professional
+malaria,Rest and conserve energy
+malaria,Gradually resume normal diet
+chicken pox,Stay hydrated
+chicken pox,Include easily digestible foods
+chicken pox,Include vitamin C-rich foods
+chicken pox,Consume protein-rich foods
+chicken pox,Include zinc-rich foods
+chicken pox,Avoid spicy and acidic foods
+chicken pox,Consult a healthcare professional
+chicken pox,Practice good hygiene
+chicken pox,Rest and conserve energy
+chicken pox,Gradually resume normal diet
+dengue,Stay hydrated
+dengue,Include nutrient-rich foods
+dengue,Consume foods rich in vitamin C and antioxidants
+dengue,Limit fatty and greasy foods
+dengue,Avoid caffeine and alcohol
+dengue,Include soft and easily digestible foods
+dengue,Consult a healthcare professional
+dengue,Rest and conserve energy
+dengue,Gradually resume normal diet
+dengue,Follow medical recommendations
+typhoid,Consume easily digestible foods
+typhoid,Stay hydrated
+typhoid,Include nutrient-rich foods
+typhoid,Consume foods rich in vitamin C and antioxidants
+typhoid,Include protein-rich foods
+typhoid,Avoid fatty and greasy foods
+typhoid,Consult a healthcare professional
+typhoid,Gradually resume normal diet
+typhoid,Follow medical recommendations
+typhoid,Avoid alcohol and caffeine
+hepatitis a,Stay hydrated
+hepatitis a,Consume nutrient-rich foods
+hepatitis a,Include protein-rich foods
+hepatitis a,Consume easily digestible foods
+hepatitis a,Limit fatty foods
+hepatitis a,Avoid alcohol and caffeine
+hepatitis a,Include vitamin C-rich foods
+hepatitis a,Consult a healthcare professional
+hepatitis a,Rest and conserve energy
+hepatitis a,Gradually resume normal diet
+hepatitis b,Follow a balanced and nutritious diet
+hepatitis b,Stay hydrated
+hepatitis b,Include protein-rich foods
+hepatitis b,Consume nutrient-rich foods
+hepatitis b,Limit fatty foods
+hepatitis b,Avoid alcohol and caffeine
+hepatitis b,Include vitamin C-rich foods
+hepatitis b,Consult a healthcare professional
+hepatitis b,Rest and conserve energy
+hepatitis b,Gradually resume normal diet
+hepatitis c,Follow a balanced and nutritious diet
+hepatitis c,Stay hydrated
+hepatitis c,Include protein-rich foods
+hepatitis c,Consume nutrient-rich foods
+hepatitis c,Limit fatty foods
+hepatitis c,Avoid alcohol and caffeine
+hepatitis c,Include vitamin C-rich foods
+hepatitis c,Consult a healthcare professional
+hepatitis c,Rest and conserve energy
+hepatitis c,Gradually resume normal diet
+hepatitis d,Follow a balanced and nutritious diet
+hepatitis d,Stay hydrated
+hepatitis d,Include protein-rich foods
+hepatitis d,Consume nutrient-rich foods
+hepatitis d,Limit fatty foods
+hepatitis d,Avoid alcohol and caffeine
+hepatitis d,Include vitamin C-rich foods
+hepatitis d,Consult a healthcare professional
+hepatitis d,Rest and conserve energy
+hepatitis d,Gradually resume normal diet
+hepatitis e,Stay hydrated
+hepatitis e,Consume nutrient-rich foods
+hepatitis e,Include protein-rich foods
+hepatitis e,Consume easily digestible foods
+hepatitis e,Limit fatty foods
+hepatitis e,Avoid alcohol and caffeine
+hepatitis e,Include vitamin C-rich foods
+hepatitis e,Consult a healthcare professional
+hepatitis e,Rest and conserve energy
+hepatitis e,Gradually resume normal diet
+alcoholic hepatitis,Avoid alcohol consumption
+alcoholic hepatitis,Follow a balanced and nutritious diet
+alcoholic hepatitis,Stay hydrated
+alcoholic hepatitis,Consume nutrient-rich foods
+alcoholic hepatitis,Include protein-rich foods
+alcoholic hepatitis,Limit fatty foods
+alcoholic hepatitis,Include antioxidants
+alcoholic hepatitis,Consult a healthcare professional
+alcoholic hepatitis,Rest and conserve energy
+alcoholic hepatitis,Gradually resume normal diet
+tuberculosis,Consume a high-protein diet
+tuberculosis,Include nutrient-rich foods
+tuberculosis,Stay hydrated
+tuberculosis,Consume foods rich in vitamins A and C
+tuberculosis,Include zinc-rich foods
+tuberculosis,Limit sugary foods and beverages
+tuberculosis,Consult a healthcare professional
+tuberculosis,Rest and conserve energy
+tuberculosis,Gradually resume normal diet
+tuberculosis,Follow medical recommendations
+common cold,Stay hydrated
+common cold,Include nutrient-rich foods
+common cold,Consume foods rich in vitamin C and antioxidants
+common cold,Include zinc-rich foods
+common cold,Limit sugary foods and beverages
+common cold,Consume chicken soup
+common cold,Consult a healthcare professional
+common cold,Rest and conserve energy
+common cold,Gradually resume normal diet
+common cold,Follow medical recommendations
+pneumonia,Stay hydrated
+pneumonia,Include nutrient-rich foods
+pneumonia,Consume foods rich in vitamin C and antioxidants
+pneumonia,Include zinc-rich foods
+pneumonia,Limit sugary foods and beverages
+pneumonia,Consume chicken soup
+pneumonia,Consult a healthcare professional
+pneumonia,Rest and conserve energy
+pneumonia,Gradually resume normal diet
+pneumonia,Follow medical recommendations
+dimorphic hemmorhoids(piles),Consume high-fiber foods
+dimorphic hemmorhoids(piles),Stay hydrated
+dimorphic hemmorhoids(piles),Include nutrient-rich foods
+dimorphic hemmorhoids(piles),Consume foods rich in flavonoids
+dimorphic hemmorhoids(piles),Limit processed foods
+dimorphic hemmorhoids(piles),Avoid spicy and greasy foods
+dimorphic hemmorhoids(piles),Consult a healthcare professional
+dimorphic hemmorhoids(piles),Practice good hygiene
+dimorphic hemmorhoids(piles),Gradually resume normal diet
+dimorphic hemmorhoids(piles),Follow medical recommendations
+heart attack,Follow a heart-healthy diet
+heart attack,Limit sodium intake
+heart attack,Include fiber-rich foods
+heart attack,Consume healthy fats
+heart attack,Include lean proteins
+heart attack,Limit sugary foods and beverages
+heart attack,Stay hydrated
+heart attack,Consult a healthcare professional
+heart attack,Follow medical recommendations
+heart attack,Engage in regular exercise
+varicose veins,Consume a high-fiber diet
+varicose veins,Stay hydrated
+varicose veins,Include nutrient-rich foods
+varicose veins,Consume foods rich in antioxidants
+varicose veins,Limit sodium intake
+varicose veins,Include flavonoid-rich foods
+varicose veins,Avoid standing or sitting for long periods
+varicose veins,Consult a healthcare professional
+varicose veins,Follow medical recommendations
+varicose veins,Engage in regular exercise
+hypothyroidism,Include iodine-rich foods
+hypothyroidism,Consume selenium-rich foods
+hypothyroidism,Stay hydrated
+hypothyroidism,Include nutrient-rich foods
+hypothyroidism,Limit processed foods
+hypothyroidism,Consume foods rich in vitamins B and D
+hypothyroidism,Consult a healthcare professional
+hypothyroidism,Follow medical recommendations
+hypothyroidism,Maintain a stable weight
+hypothyroidism,Engage in regular exercise
+hyperthyroidism,Limit iodine intake
+hyperthyroidism,Consume cruciferous vegetables in moderation
+hyperthyroidism,Stay hydrated
+hyperthyroidism,Include nutrient-rich foods
+hyperthyroidism,Limit caffeine and alcohol
+hyperthyroidism,Include omega-3 fatty acids
+hyperthyroidism,Consult a healthcare professional
+hyperthyroidism,Follow medical recommendations
+hyperthyroidism,Maintain a stable weight
+hyperthyroidism,Engage in regular exercise
+hypoglycemia,Consume complex carbohydrates
+hypoglycemia,Include protein-rich foods
+hypoglycemia,Stay hydrated
+hypoglycemia,Limit sugary foods and beverages
+hypoglycemia,Consume regular meals and snacks
+hypoglycemia,Consult a healthcare professional
+hypoglycemia,Monitor blood sugar levels
+hypoglycemia,Follow medical recommendations
+hypoglycemia,Engage in regular physical activity
+hypoglycemia,Limit alcohol intake
+osteoarthristis,Consume anti-inflammatory foods
+osteoarthristis,Include omega-3 fatty acids
+osteoarthristis,Consume antioxidant-rich foods
+osteoarthristis,Stay hydrated
+osteoarthristis,Limit processed foods
+osteoarthristis,Include vitamin K-rich foods
+osteoarthristis,Consult a healthcare professional
+osteoarthristis,Follow medical recommendations
+osteoarthristis,Engage in low-impact exercise
+osteoarthristis,Maintain a healthy weight
+arthritis,Consume anti-inflammatory foods
+arthritis,Include omega-3 fatty acids
+arthritis,Consume antioxidant-rich foods
+arthritis,Stay hydrated
+arthritis,Limit processed foods
+arthritis,Include vitamin K-rich foods
+arthritis,Consult a healthcare professional
+arthritis,Follow medical recommendations
+arthritis,Engage in low-impact exercise
+arthritis,Maintain a healthy weight
+(vertigo) paroymsal  positional vertigo,"Avoid trigger foods (caffeine, alcohol)"
+(vertigo) paroymsal  positional vertigo,Limit sodium intake
+(vertigo) paroymsal  positional vertigo,Stay hydrated
+(vertigo) paroymsal  positional vertigo,Consume ginger and ginkgo biloba
+(vertigo) paroymsal  positional vertigo,Limit artificial sweeteners
+(vertigo) paroymsal  positional vertigo,Consult a healthcare professional
+(vertigo) paroymsal  positional vertigo,Avoid sudden head movements
+(vertigo) paroymsal  positional vertigo,Follow medical recommendations
+(vertigo) paroymsal  positional vertigo,Manage stress
+(vertigo) paroymsal  positional vertigo,Limit caffeine and stimulants
+acne,Consume a balanced diet
+acne,Limit dairy and high-glycemic foods
+acne,Include antioxidants
+acne,Stay hydrated
+acne,Limit processed foods
+acne,Include zinc-rich foods
+acne,Consult a skincare professional
+acne,Practice good skincare hygiene
+acne,Limit sugary foods and beverages
+acne,Follow medical recommendations
+urinary tract infection,Stay hydrated
+urinary tract infection,Consume cranberry products
+urinary tract infection,Include vitamin C-rich foods
+urinary tract infection,Limit caffeine and alcohol
+urinary tract infection,Consume probiotics
+urinary tract infection,Avoid spicy and acidic foods
+urinary tract infection,Consult a healthcare professional
+urinary tract infection,Follow medical recommendations
+urinary tract infection,Maintain good hygiene
+urinary tract infection,Limit sugary foods and beverages
+psoriasis,Consume anti-inflammatory foods
+psoriasis,Include omega-3 fatty acids
+psoriasis,Include vitamin D analogues
+psoriasis,Limit alcohol consumption
+psoriasis,Stay hydrated
+psoriasis,Consult a healthcare professional
+psoriasis,Limit processed foods
+psoriasis,Follow medical recommendations
+psoriasis,Manage stress
+psoriasis,Consider phototherapy under medical guidance
+impetigo,Maintain good hygiene
+impetigo,Stay hydrated
+impetigo,Consume nutrient-rich foods
+impetigo,Limit sugary foods and beverages
+impetigo,Include foods rich in vitamin C
+impetigo,Consult a healthcare professional
+impetigo,Follow medical recommendations
+impetigo,Avoid scratching
+impetigo,Take prescribed antibiotics
+impetigo,Practice wound care
